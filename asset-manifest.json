@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jyotimurya/weather-app/static/css/main.4507d560.chunk.css",
+    "main.js": "/jyotimurya/weather-app/static/js/main.3239716b.chunk.js",
+    "main.js.map": "/jyotimurya/weather-app/static/js/main.3239716b.chunk.js.map",
+    "runtime-main.js": "/jyotimurya/weather-app/static/js/runtime-main.0fcb40ba.js",
+    "runtime-main.js.map": "/jyotimurya/weather-app/static/js/runtime-main.0fcb40ba.js.map",
+    "static/js/2.46ab31c6.chunk.js": "/jyotimurya/weather-app/static/js/2.46ab31c6.chunk.js",
+    "static/js/2.46ab31c6.chunk.js.map": "/jyotimurya/weather-app/static/js/2.46ab31c6.chunk.js.map",
+    "index.html": "/jyotimurya/weather-app/index.html",
+    "static/css/main.4507d560.chunk.css.map": "/jyotimurya/weather-app/static/css/main.4507d560.chunk.css.map",
+    "static/js/2.46ab31c6.chunk.js.LICENSE.txt": "/jyotimurya/weather-app/static/js/2.46ab31c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fcb40ba.js",
+    "static/js/2.46ab31c6.chunk.js",
+    "static/css/main.4507d560.chunk.css",
+    "static/js/main.3239716b.chunk.js"
+  ]
+}
